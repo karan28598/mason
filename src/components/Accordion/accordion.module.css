@@ -1,0 +1,173 @@
+.accordionBody1,
+.accordionBody2,
+.dropdownOption15 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.accordionBody1,
+.accordionBody2 {
+  display: flex;
+  flex-direction: column;
+}
+.accordionBody1 {
+  color: var(--gray-900);
+}
+.accordionButton3 {
+  align-self: stretch;
+  background-color: var(--gray-100);
+  border: 1px solid var(--gray-200);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--boundvariablesdata3) var(--padding-lgi);
+  gap: var(--gap-0);
+  row-gap: 20px;
+  max-width: 100%;
+}
+.iconHeading3 {
+  width: 416px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 8px;
+  max-width: calc(100% - 12px);
+}
+.toggleText4 {
+  flex: 1;
+  position: relative;
+  line-height: 16px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.accordionBody2 {
+  background-color: var(--white);
+  border-right: 1px solid var(--gray-200);
+  border-left: 1px solid var(--gray-200);
+  box-sizing: border-box;
+  padding: var(--boundvariablesdata2) var(--padding-4xs)
+    var(--boundvariablesdata2) 7px;
+  gap: 10px 0;
+  min-height: 406px;
+  font-size: var(--text-sm-font-semibold-size);
+}
+.dropdownOption1,
+.dropdownOption2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.dropdownOption1 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.dropdownOption2 {
+  flex: 1;
+  border-radius: var(--br-9xs);
+  background-color: var(--white);
+  align-items: center;
+  padding: var(--boundvariablesdata2) var(--boundvariablesdata7);
+  box-sizing: border-box;
+  gap: 0 8px;
+}
+.content5,
+.dropdownOption,
+.dropdownOption10,
+.dropdownOption2,
+.dropdownOption4,
+.dropdownOption6,
+.dropdownOption8,
+.dropdownOptionFrame {
+  flex-wrap: wrap;
+}
+.button2,
+.button3,
+.icon30,
+.icon31 {
+  display: flex;
+  justify-content: center;
+}
+.button2 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px 0;
+  min-width: 265px;
+  max-width: 100%;
+}
+.frameDropdownContent {
+  align-self: stretch;
+  height: 14px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.button3,
+.icon30,
+.icon31 {
+  align-items: center;
+}
+.icon31 {
+  height: 12.5px;
+  width: 13px;
+  position: relative;
+  flex-shrink: 0;
+}
+.button3,
+.icon30 {
+  flex-direction: row;
+}
+.icon30 {
+  align-self: stretch;
+  width: 16px;
+}
+.button3 {
+  height: 24px;
+  width: 24px;
+  border-radius: var(--br-9xs);
+  background-color: var(--white);
+  border: 1px solid var(--gray-200);
+  box-sizing: border-box;
+  padding: var(--boundvariablesdata8) var(--padding-10xs);
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--gray-800);
+}
+.accordionButton1 {
+  align-self: stretch;
+  background-color: var(--gray-50);
+  border: 1px solid var(--gray-200);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--boundvariablesdata3) var(--padding-lgi);
+  gap: var(--gap-0);
+  row-gap: 20px;
+  max-width: 100%;
+}
+.iconHeading {
+  width: 416px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: calc(100% - 12px);
+}
+.toggleText1 {
+  flex: 1;
+  position: relative;
+  line-height: 16px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
